@@ -4,8 +4,8 @@
 
 #### REQUIRED (10pts)
 
-- [ ] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [ ] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+- [X] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [X] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 #### BONUS
 
@@ -19,9 +19,8 @@
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+![Flixster2_GIF](https://user-images.githubusercontent.com/20734465/154783387-2a06bebb-577e-4687-9623-582e83ef6693.gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
 
 ### Notes
 
@@ -30,6 +29,8 @@ Describe any challenges encountered while building the app.
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+
+## Flix Part 1
 
 (Unable to access prior README file. Lost original trying to reupload project.)
 
